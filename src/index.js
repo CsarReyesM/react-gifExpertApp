@@ -18,5 +18,5 @@ ReactDOM.render(
 
 
 // proceso para sacar build y poder compartir el proyecto
-00
+
 

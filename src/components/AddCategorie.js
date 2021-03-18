@@ -35,12 +35,5 @@ AddCategorie.propTypes = {
 
 // COMANDOS PARA SUBIR A LOCAL HOST
 
-{/*
-    Viajes privados;
-    AFAC 
-    Pymes
-    Migracion // declaracion general...
-              // 1er oficial y piloto 
-              //
-*/}dgaoc
+
     //
