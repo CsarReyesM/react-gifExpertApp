@@ -1,10 +1,6 @@
 *{
   font-family:  Helvetica,Arial, sans-serif;
 }
-img{
-  max-width: 100%;
-}
-
 body{
   padding: 60px;
 }
@@ -17,7 +13,6 @@ input{
   text-align: center;
 }
 
-
 .card {
   align-content: center;
   border: 2.5px solid grey;
@@ -27,7 +22,6 @@ input{
   margin-right: 10px;
   background-color: darkgoldenrod;
 }
-
 .card p{
   text-align: center;
   font-family: 'Lucida Sans','sans-serif';
