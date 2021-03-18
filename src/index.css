@@ -15,9 +15,8 @@ input{
 }
 .card-grid{
   text-align: center;
-  justify-items: auto;
-  
 }
+
 
 .card {
   align-content: center;
@@ -35,6 +34,3 @@ input{
   
 }
 
-.card img{
-  max-width: 180px;
-}
